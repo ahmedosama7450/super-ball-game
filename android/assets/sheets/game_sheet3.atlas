@@ -1,0 +1,224 @@
+
+game_sheet3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+0
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+00
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+010
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game_sheet32.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+011
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+012
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+013
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+014
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game_sheet33.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+02
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game_sheet34.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+06
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game_sheet35.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+1
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game_sheet36.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+3
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 503, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+game_sheet37.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+7
+  rotate: false
+  xy: 1, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1, 1
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 503, 503
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

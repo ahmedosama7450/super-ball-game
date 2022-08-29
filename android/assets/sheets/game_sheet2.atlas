@@ -1,0 +1,339 @@
+
+game_sheet2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bottom_cloud
+  rotate: false
+  xy: 1, 777
+  size: 1000, 246
+  orig: 1000, 246
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 533
+  size: 674, 242
+  orig: 674, 242
+  offset: 0, 0
+  index: -1
+overlay
+  rotate: false
+  xy: 1, 31
+  size: 400, 500
+  orig: 400, 500
+  offset: 0, 0
+  index: -1
+transparent_bg
+  rotate: false
+  xy: 403, 131
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+instructions_note
+  rotate: false
+  xy: 403, 51
+  size: 592, 78
+  orig: 592, 78
+  offset: 0, 0
+  index: -1
+slide_left_instruction
+  rotate: false
+  xy: 677, 652
+  size: 266, 123
+  orig: 266, 123
+  offset: 0, 0
+  index: -1
+avoid_spikes_instruction
+  rotate: false
+  xy: 677, 557
+  size: 268, 93
+  orig: 268, 93
+  offset: 0, 0
+  index: -1
+fb_icon
+  rotate: false
+  xy: 805, 427
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+overlay_fb_icon
+  rotate: false
+  xy: 805, 297
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+overlay_twitter_icon
+  rotate: false
+  xy: 805, 167
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+spike
+  rotate: false
+  xy: 945, 705
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+hor_line
+  rotate: false
+  xy: 1, 9
+  size: 100, 20
+  orig: 100, 20
+  offset: 0, 0
+  index: -1
+about_icon
+  rotate: false
+  xy: 403, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+blank_key_icon
+  rotate: false
+  xy: 453, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+exit_icon
+  rotate: false
+  xy: 503, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+instruction_icon
+  rotate: false
+  xy: 553, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+key_icon
+  rotate: false
+  xy: 603, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+no_sound_icon
+  rotate: false
+  xy: 653, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+pause_icon
+  rotate: false
+  xy: 703, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+play_icon
+  rotate: false
+  xy: 753, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+settings_icon
+  rotate: false
+  xy: 803, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+sound_icon
+  rotate: false
+  xy: 853, 1
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 935, 469
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+keyBlue
+  rotate: false
+  xy: 935, 385
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+left_arrow
+  rotate: false
+  xy: 935, 327
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+right_arrow
+  rotate: false
+  xy: 935, 269
+  size: 68, 56
+  orig: 68, 56
+  offset: 0, 0
+  index: -1
+tap
+  rotate: false
+  xy: 935, 208
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+tap_tick
+  rotate: false
+  xy: 935, 147
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+
+game_sheet22.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tap_note
+  rotate: false
+  xy: 1, 918
+  size: 592, 78
+  orig: 592, 78
+  offset: 0, 0
+  index: -1
+coin_rewarded_video_overlay
+  rotate: false
+  xy: 595, 763
+  size: 428, 233
+  orig: 428, 233
+  offset: 0, 0
+  index: -1
+life_rewarded_video_overlay
+  rotate: false
+  xy: 1, 683
+  size: 428, 233
+  orig: 428, 233
+  offset: 0, 0
+  index: -1
+no_rewarded_video_overlay
+  rotate: false
+  xy: 1, 448
+  size: 428, 233
+  orig: 428, 233
+  offset: 0, 0
+  index: -1
+slide_right_instruction
+  rotate: false
+  xy: 1, 323
+  size: 266, 123
+  orig: 266, 123
+  offset: 0, 0
+  index: -1
+tap_instruction
+  rotate: false
+  xy: 1, 198
+  size: 266, 123
+  orig: 266, 123
+  offset: 0, 0
+  index: -1
+collect_keys_instruction
+  rotate: false
+  xy: 1, 103
+  size: 268, 93
+  orig: 268, 93
+  offset: 0, 0
+  index: -1
+overlay_website_icon
+  rotate: false
+  xy: 431, 788
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+overlay_no_button
+  rotate: false
+  xy: 1, 31
+  size: 177, 70
+  orig: 177, 70
+  offset: 0, 0
+  index: -1
+overlay_yes_button
+  rotate: false
+  xy: 269, 376
+  size: 177, 70
+  orig: 177, 70
+  offset: 0, 0
+  index: -1
+home_icon
+  rotate: false
+  xy: 269, 274
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+more_trans_bg
+  rotate: false
+  xy: 431, 686
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+overlay_close_icon
+  rotate: false
+  xy: 431, 584
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+overlay_music_icon
+  rotate: false
+  xy: 431, 482
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+overlay_no_music_icon
+  rotate: false
+  xy: 371, 274
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+overlay_no_sound_icon
+  rotate: false
+  xy: 180, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+overlay_sound_icon
+  rotate: false
+  xy: 448, 380
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+replay_icon
+  rotate: false
+  xy: 473, 278
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+start_icon
+  rotate: false
+  xy: 533, 661
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
